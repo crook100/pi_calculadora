@@ -12,16 +12,14 @@ https://github.com/JonathanMacedo/projeto-calculadora/assets/148797702/a0bc1d32-
 
 
 
-# Tecnologias utilizadas
-- HTML
-- CSS
-- JavaScritp
+## 🛠️ Tecnologias Utilizadas
+
+- **HTML** ⚡
+- **CSS** 🎨
+- **JavaScript** 🎯
 
 # Autor
 
-## Jonathan Macedo
-
-<a href="https://www.linkedin.com/in/jonathan-macedo-10182b274/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-JonathanMacedo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a> 
-
+## 🧑 Integrantes do grupo
+- Thiago de Souza Barrado RA: 24001296
+- Jonathan Cristhiovane da Silva Macedo RA: 24000883
